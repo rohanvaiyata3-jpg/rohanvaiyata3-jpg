@@ -1,62 +1,128 @@
-## Hi there, I'm [Your Name] 👋
+# Rohan Vaiyata
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+### Data Analyst | Business Intelligence | Analytics
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+I work at the intersection of **data, business problems and decision-making**.
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+My current toolkit includes **Python, SQL, Power BI, Tableau, Excel/VBA and R**. 
+I use them across different stages of analysis — from data preparation and querying 
+to exploratory analysis, visualization and communicating findings.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Currently, I'm building an analytics portfolio around **real business datasets** 
+rather than isolated technical exercises.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+---
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+## What I Bring
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+**Data Analysis**
+→ Python • Pandas • NumPy • SQL • R
 
-## 🌱 Currently Learning 
+**Business Intelligence**
+→ Power BI • DAX • Tableau
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+**Advanced Excel**
+→ PivotTables • XLOOKUP • VBA • Macros
 
-## 🛠️ Technical Skillset
+**Visualization**
+→ Matplotlib • Seaborn • Power BI • Tableau
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+**Business Context**
+→ 1+ year of professional experience at Deloitte in Audit
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+---
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+## Selected Work
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+### E-Commerce Sales Intelligence
+
+**Python + SQL + Power BI**
+
+An end-to-end analytics project examining how revenue is generated across
+customers, products, channels and geographies.
+
+Instead of stopping at dashboard creation, the analysis focuses on questions such as:
+
+- Which customer segments contribute disproportionately to revenue?
+- Where is repeat behaviour strongest?
+- How do discounts relate to average order value?
+- Which categories and channels drive commercial performance?
+- Where are the potential areas of revenue leakage or opportunity?
+
+**Tools:** Python | SQL | Power BI | DAX
+
+→ [View Repository](YOUR_LINK)
+
+---
+
+### Python Data Analysis
+
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
+
+[YOUR ACTUAL PROJECT-SPECIFIC ONE-LINE DESCRIPTION]
+
+→ [View Repository](YOUR_LINK)
+
+---
+
+### SQL Analysis
+
+**MySQL**
+
+[YOUR ACTUAL PROJECT-SPECIFIC ONE-LINE DESCRIPTION]
+
+→ [View Repository](YOUR_LINK)
+
+---
+
+## Professional Experience
+
+### Deloitte
+**Audit & Assurance | 1+ Year**
+
+My professional experience at Deloitte has given me exposure to:
+
+- Business processes and controls
+- Structured data and documentation
+- Analytical review and verification
+- Client-facing professional environments
+- Problem solving within defined business processes
+
+This experience complements my technical analytics work by giving me
+exposure to how data and processes operate in an actual organization.
+
+---
+
+## Education & Credentials
+
+**B.Com**  
+Sydenham College of Commerce & Economics
+
+**Diploma in Foreign Trade**  
+Indian Institute of Foreign Trade (IIFT)
+
+**Investment Banking Certification**  
+J.P. Morgan
+
+---
+
+## Leadership
+
+**Head — Placement Committee**
+
+**Head — College Annual Fest**
+
+Leadership roles across college cultural and event initiatives, with experience
+in coordination, communication, marketing, logistics and stakeholder management.
+
+---
+
+## Analytics Stack
+
+```text
+Python        ████████████████████
+SQL           ████████████████████
+Power BI      ████████████████████
+Excel / VBA   ████████████████████
+Tableau       ██████████████████
+R             ███████████████
