@@ -59,7 +59,7 @@ Instead of stopping at dashboard creation, the analysis focuses on questions suc
 
 **Python | Pandas | NumPy | Matplotlib | Seaborn**
 
-[YOUR ACTUAL PROJECT-SPECIFIC ONE-LINE DESCRIPTION]
+Exploratory analysis of e-commerce sales data using Python to identify revenue, customer, product, channel, and geographic trends.
 
 → [View Repository](YOUR_LINK)
 
@@ -69,7 +69,7 @@ Instead of stopping at dashboard creation, the analysis focuses on questions suc
 
 **MySQL**
 
-[YOUR ACTUAL PROJECT-SPECIFIC ONE-LINE DESCRIPTION]
+Structured SQL analysis of e-commerce revenue, customers, products, discounts, geography, and sales channels.
 
 → [View Repository](YOUR_LINK)
 
