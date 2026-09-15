@@ -51,7 +51,7 @@ Instead of stopping at dashboard creation, the analysis focuses on questions suc
 
 **Tools:** Python | SQL | Power BI | DAX
 
-→ [View Repository](YOUR_LINK)
+→ [View Repository](https://github.com/rohanvaiyata3-jpg/e-commerce-revenue-customer-intelligence)
 
 ---
 
@@ -61,7 +61,7 @@ Instead of stopping at dashboard creation, the analysis focuses on questions suc
 
 Exploratory analysis of e-commerce sales data using Python to identify revenue, customer, product, channel, and geographic trends.
 
-→ [View Repository](YOUR_LINK)
+→ [View Repository](https://github.com/rohanvaiyata3-jpg/retail-sales-analytics)
 
 ---
 
@@ -71,7 +71,17 @@ Exploratory analysis of e-commerce sales data using Python to identify revenue, 
 
 Structured SQL analysis of e-commerce revenue, customers, products, discounts, geography, and sales channels.
 
-→ [View Repository](YOUR_LINK)
+→ [View Repository](https://github.com/rohanvaiyata3-jpg/ecommerce-revenue-customer-intelligence-sql)
+
+---
+
+### Power BI Dashboard
+
+**Power BI | DAX | Data Modelling**
+
+Interactive e-commerce dashboard focused on revenue performance, customer behaviour, product performance, sales channels, and commercial trends.
+
+→ [View Repository](https://github.com/rohanvaiyata3-jpg/ecommerce-sales-power-bi-dashboard)
 
 ---
 
@@ -125,12 +135,13 @@ in coordination, communication, marketing, logistics and stakeholder management.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+**Python:** Pandas • NumPy • Matplotlib • Seaborn
+
 ### Business Intelligence & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Python:** Pandas • NumPy • Matplotlib • Seaborn  
+  
 **Excel:** PivotTables • XLOOKUP • VBA • Macros  
 **Power BI:** DAX • Data Modelling • Dashboard Development
