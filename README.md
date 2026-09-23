@@ -5,7 +5,7 @@
 I work at the intersection of **data, business problems and decision-making**.
 
 My current toolkit includes **Python, SQL, Power BI, Tableau, Excel/VBA and R**. 
-I use them across different stages of analysis — from data preparation and querying 
+I use them across different stages of analysis - from data preparation and querying 
 to exploratory analysis, visualization and communicating findings.
 
 Currently, I'm building an analytics portfolio around **real business datasets** 
@@ -118,9 +118,9 @@ J.P. Morgan
 
 ## Leadership
 
-**Head — Placement Committee**
+**Head - Placement Committee**
 
-**Head — College Annual Fest**
+**Head - College Annual Fest**
 
 Leadership roles across college cultural and event initiatives, with experience
 in coordination, communication, marketing, logistics and stakeholder management.
