@@ -9,13 +9,13 @@ that turn raw financial and business data into decision-ready insights.
 Currently interning at **Deloitte (Škoda Auto Volkswagen India)** in finance operations 
 analytics, with prior project experience across BFSI and financial datasets.
 
-📧 rohanvaiyata3@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/rohan-vaiyata) · 📍 Mumbai, India
+rohanvaiyata3@gmail.com · [LinkedIn](https://linkedin.com/in/rohan-vaiyata) · Mumbai, India
 
 ---
 
 ## Featured Projects
 
-### 📊 Market Risk & Portfolio Analytics System
+###  Market Risk & Portfolio Analytics System
 **Python · MySQL · Power BI**
 
 End-to-end market risk analytics pipeline over a 7-asset multi-class portfolio 
@@ -35,7 +35,7 @@ End-to-end market risk analytics pipeline over a 7-asset multi-class portfolio
 
 ---
 
-### 🛒 E-Commerce Revenue & Customer Intelligence
+###  E-Commerce Revenue & Customer Intelligence
 **SQL · Python · Power BI**
 
 End-to-end analytics on 100K+ records across 5+ relational tables — revenue, customers, 
@@ -107,6 +107,6 @@ Power Query · Power Pivot · PivotTables · XLOOKUP · VBA · Macros
 
 ## Contact
 
-📧 rohanvaiyata3@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/rohan-vaiyata)  
-🐙 [GitHub](https://github.com/rohanvaiyata3-jpg)
+ rohanvaiyata3@gmail.com  
+ [LinkedIn](https://linkedin.com/in/rohan-vaiyata)  
+ [GitHub](https://github.com/rohanvaiyata3-jpg)
