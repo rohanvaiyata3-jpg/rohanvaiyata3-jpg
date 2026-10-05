@@ -54,7 +54,7 @@ products, discounts, geography, and channels.
 ## Experience
 
 **Deloitte Touche Tohmatsu India LLP** — *Finance Operations & Compliance Intern*  
-Škoda Auto Volkswagen India | Sep 2025 – Present
+Škoda Auto Volkswagen India | Sep 2025 – Oct 2026
 
 - Validate 5,000+ monthly vehicle records to identify discrepancies and exceptions
 - Investigate discount claims across 100+ dealers against business rules
