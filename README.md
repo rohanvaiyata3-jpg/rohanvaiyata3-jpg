@@ -1,112 +1,131 @@
 # Rohan Vaiyata
 
-### Market Risk & Portfolio Analytics | SQL · Python · Power BI
+### Data Analyst | Business Intelligence | Risk & Financial Analytics
 
-Commerce (Finance) graduate focused on **market risk analytics, portfolio performance 
-measurement, and business intelligence**. I build end-to-end analytics pipelines 
-that turn raw financial and business data into decision-ready insights.
+Commerce graduate specializing in Finance, with experience in finance operations, data validation, exception analysis, and business reporting. Skilled in **SQL, Python, Power BI, Excel, and MySQL**, with a focus on transforming raw data into reliable metrics, identifying discrepancies, and generating actionable business insights.
 
-Currently interning at **Deloitte (Škoda Auto Volkswagen India)** in finance operations 
-analytics, with prior project experience across BFSI and financial datasets.
+Currently working as a **Finance Operations & Compliance Intern at Deloitte**, supporting finance operations for Škoda Auto Volkswagen India. Building end-to-end analytics projects across portfolio risk, customer intelligence, revenue analysis, and data quality.
 
-rohanvaiyata3@gmail.com · [LinkedIn](https://linkedin.com/in/rohan-vaiyata) · Mumbai, India
+**Mumbai, India** · rohanvaiyata3@gmail.com · [LinkedIn](https://linkedin.com/in/rohan-vaiyata)
 
 ---
 
 ## Featured Projects
 
-###  Market Risk & Portfolio Analytics System
-**Python · MySQL · Power BI**
+### 1. Market Risk & Portfolio Analytics System
 
-End-to-end market risk analytics pipeline over a 7-asset multi-class portfolio 
-(Equities, Equity ETF, Commodity ETF, Bond ETF) using 6+ years of daily market data.
+**Python · SQL · MySQL · Power BI**
 
-- Computed **Annualized Return, Volatility, Sharpe Ratio, Historical VaR (95%)**, 
-  **Expected Shortfall (95%), Drawdown, and Maximum Drawdown**
-- Decomposed total portfolio risk into **per-asset risk contributions** using a 
-  covariance matrix
-- Wrote **15+ analytical SQL queries** with window functions, LAG, and CTEs
-- Delivered findings via a **4-page Power BI dashboard** (Risk Overview, Market Risk, 
-  Composition, Market Analysis)
+Developed an end-to-end portfolio analytics pipeline covering a seven-asset, multi-asset portfolio using more than six years of daily market data.
 
-**Stack:** Python (Pandas, NumPy, yfinance) · MySQL · Power BI · SQL
+- Calculated annualized returns, volatility, Sharpe ratio, Historical Value at Risk (VaR), Expected Shortfall, drawdown, and maximum drawdown.
+- Analysed asset-level risk contributions using portfolio covariance analysis.
+- Developed 15+ analytical SQL queries using CTEs, window functions, and `LAG()`.
+- Built a four-page Power BI dashboard covering risk overview, market risk, portfolio composition, and market analysis.
 
-→ [View Repository](https://github.com/rohanvaiyata3-jpg/market-risk-portfolio-analytics)
+**Tech stack:** Python, Pandas, NumPy, yfinance, MySQL, SQL, Power BI.
+
+→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/market-risk-portfolio-analytics)
 
 ---
 
-###  E-Commerce Revenue & Customer Intelligence
-**SQL · Python · Power BI**
+### 2. E-Commerce Revenue & Customer Intelligence
 
-End-to-end analytics on 100K+ records across 5+ relational tables — revenue, customers, 
-products, discounts, geography, and channels.
+**SQL · Python · Power BI · DAX**
 
-- Surfaced that **top 20% of customers generated ~60% of revenue**
-- Built interactive Power BI dashboard (DAX, slicers, drill-through)
-- Cleaned and transformed data in Python (Pandas); validated via source reconciliation
+Performed end-to-end analysis of 100K+ records across five or more relational tables to investigate revenue trends, customer behaviour, product performance, discounts, geography, and sales channels.
 
-**Stack:** SQL · Python · Power BI · DAX
+- Analysed customer revenue concentration, identifying that the top 20% of customers generated approximately 60% of revenue.
+- Cleaned and transformed data using Python and Pandas.
+- Validated analytical outputs through source-data reconciliation.
+- Built an interactive Power BI dashboard with DAX measures, slicers, and drill-through analysis.
 
-→ [View Repository](https://github.com/rohanvaiyata3-jpg/ecommerce-revenue-customer-intelligence)
+**Tech stack:** SQL, Python, Pandas, Power BI, DAX.
 
----
-
-## Experience
-
-**Deloitte Touche Tohmatsu India LLP** — *Finance Operations & Compliance Intern*  
-Škoda Auto Volkswagen India | Sep 2025 – Oct 2026
-
-- Validate 5,000+ monthly vehicle records to identify discrepancies and exceptions
-- Investigate discount claims across 100+ dealers against business rules
-- Build Excel/Power Pivot trackers for dealer performance and operational reporting
-
-**Kanalytics** — *Analytics & Reporting Analyst (Project-Based)*  
-Feb 2025 – Mar 2025
-
-- Analysed BFSI data across HDFC Bank, SBI, ICICI Bank, Kotak, and Yes Bank
+→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/ecommerce-revenue-customer-intelligence)
 
 ---
 
-## Analytics Stack
+### 3. Learning & Talent Analytics
 
-**Languages & Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Python · SQL · MySQL · Tableau**
 
-**Business Intelligence**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+Built an end-to-end people analytics project to examine learning participation, course completion, employee training outcomes, and data quality using a simulated learning management dataset.
+
+- Developed a Python data-cleaning pipeline to identify duplicates, missing values, invalid entries, and data-quality exceptions.
+- Used SQL to analyse training participation, completion rates, course performance, and overdue learning records.
+- Designed a Tableau dashboard framework for executive reporting, participation analysis, course performance, and data quality.
+- Developed business recommendations to improve training completion and strengthen data reliability.
+
+**Tech stack:** Python, Pandas, NumPy, MySQL, SQL, Tableau.
+
+→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/Learning_Talent_Analytics)
+
+---
+
+## Professional Experience
+
+### Deloitte Touche Tohmatsu India LLP
+**Finance Operations & Compliance Intern**  
+Škoda Auto Volkswagen India | Sep 2025 - Oct 2026
+
+- Validate 5,000+ monthly vehicle records to identify discrepancies, exceptions, and data inconsistencies.
+- Investigate discount claims across 100+ dealers against defined business rules and compliance requirements.
+- Develop Excel and Power Pivot trackers to support dealer performance monitoring and operational reporting.
+- Apply structured validation and exception analysis to improve reporting reliability and support business decision-making.
+
+### Kanalytics
+**Analytics & Reporting Analyst — Project-Based**  
+Feb 2025 - Mar 2025
+
+- Analysed BFSI data involving HDFC Bank, SBI, ICICI Bank, Kotak Mahindra Bank, and Yes Bank.
+- Gained project-based exposure to financial data analysis and reporting.
+
+---
+
+## Technical Skills
+
+**Programming & Data Analysis**  
+Python · SQL · Pandas · NumPy
+
+**Business Intelligence & Databases**  
+Power BI · Tableau · MySQL · DAX
+
+**Data Preparation & Reporting**  
+Microsoft Excel · Power Query · Power Pivot · PivotTables · XLOOKUP · VBA · Macros · Data Cleaning · Data Validation · Data Quality Analysis
 
 **Risk & Financial Analytics**  
-VaR · Expected Shortfall · Drawdown · Volatility · Sharpe Ratio · Risk Contribution · 
-Covariance Matrix · Portfolio Returns · Stress Testing
+Value at Risk (VaR) · Expected Shortfall · Portfolio Returns · Volatility · Sharpe Ratio · Drawdown Analysis · Risk Contribution · Covariance Analysis
 
-**Excel & Automation**  
-Power Query · Power Pivot · PivotTables · XLOOKUP · VBA · Macros
-
----
-
-## Education
-
-**B.Com (Finance)** — Sydenham College of Commerce & Economics | 2023–2026 | CGPA 8.04
-
-**Diploma in Foreign Trade** — Indian Institute of Foreign Trade (IIFT)  
-**Investment Banking Certification** — J.P. Morgan
+**Analytical Methods**  
+Exploratory Data Analysis · KPI Reporting · Trend Analysis · Customer Segmentation · Revenue Analysis · Root-Cause Analysis · Business Reporting
 
 ---
 
-## Leadership
+## Education & Certifications
+
+**Bachelor of Commerce (Finance)**  
+Sydenham College of Commerce & Economics | 2023-2026 | CGPA: 8.04
+
+**Diploma in Foreign Trade**  
+Indian Institute of Foreign Trade (IIFT)
+
+**Investment Banking Certification**  
+J.P. Morgan
+
+---
+
+## Leadership & Campus Involvement
 
 - Head of Placement Committee — Sydenham College
 - Head of Marketing — Brouhaha Fest & English Literature Club
 
 ---
 
-## Contact
+## Connect With Me
 
- rohanvaiyata3@gmail.com  
- [LinkedIn](https://linkedin.com/in/rohan-vaiyata)  
- [GitHub](https://github.com/rohanvaiyata3-jpg)
+- **LinkedIn:** https://linkedin.com/in/rohan-vaiyata
+- **GitHub:** https://github.com/rohanvaiyata3-jpg
+- **Email:** rohanvaiyata3@gmail.com
+
+I'm interested in opportunities across **Data Analytics, Business Intelligence, Financial Analytics, Risk Analytics, and Business Analysis**.
