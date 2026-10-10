@@ -42,7 +42,7 @@ Performed end-to-end analysis of 100K+ records across five or more relational ta
 
 **Tech stack:** SQL, Python, Pandas, Power BI, DAX.
 
-→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/ecommerce-revenue-customer-intelligence)
+→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/e-commerce-revenue-customer-intelligence)
 
 ---
 
