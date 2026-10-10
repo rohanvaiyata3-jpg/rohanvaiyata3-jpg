@@ -75,7 +75,7 @@ Built an end-to-end people analytics project to examine learning participation, 
 - Apply structured validation and exception analysis to improve reporting reliability and support business decision-making.
 
 ### Kanalytics
-**Analytics & Reporting Analyst — Project-Based**  
+**Analytics & Reporting Analyst - Project-Based**  
 Feb 2025 - Mar 2025
 
 - Analysed BFSI data involving HDFC Bank, SBI, ICICI Bank, Kotak Mahindra Bank, and Yes Bank.
@@ -117,8 +117,8 @@ J.P. Morgan
 
 ## Leadership & Campus Involvement
 
-- Head of Placement Committee — Sydenham College
-- Head of Marketing — Brouhaha Fest & English Literature Club
+- Head of Placement Committee - Sydenham College
+- Head of Marketing - Brouhaha Fest & English Literature Club
 
 ---
 
