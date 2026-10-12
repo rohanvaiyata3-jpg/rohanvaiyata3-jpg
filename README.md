@@ -48,7 +48,7 @@ Performed end-to-end analysis of 100K+ records across five or more relational ta
 
 ### 3. Learning & Talent Analytics
 
-**Python · SQL · MySQL · Tableau**
+**Python · MySQL · Tableau · PowerPoint**
 
 Built an end-to-end people analytics project to examine learning participation, course completion, employee training outcomes, and data quality using a simulated learning management dataset.
 
