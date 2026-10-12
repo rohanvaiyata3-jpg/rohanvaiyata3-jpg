@@ -2,7 +2,7 @@
 
 ### Data Analyst | Business Intelligence | Risk & Financial Analytics
 
-Commerce graduate specializing in Finance, with experience in finance operations, data validation, exception analysis, and business reporting. Skilled in **SQL, Python, Power BI, Excel, and MySQL**, with a focus on transforming raw data into reliable metrics, identifying discrepancies, and generating actionable business insights.
+Commerce graduate specializing in Finance, with experience in finance operations, data validation, exception analysis, and business reporting. Skilled in **SQL, Python, Power BI, Excel, and PowerPoint**, with a focus on transforming raw data into reliable metrics, identifying discrepancies, and generating actionable business insights.
 
 Currently working as a **Finance Operations & Compliance Intern at Deloitte**, supporting finance operations for Škoda Auto Volkswagen India. Building end-to-end analytics projects across portfolio risk, customer intelligence, revenue analysis, and data quality.
 
