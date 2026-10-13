@@ -25,7 +25,7 @@ Developed an end-to-end portfolio analytics pipeline covering a seven-asset, mul
 
 **Tech stack:** Python, Pandas, NumPy, yfinance, MySQL, SQL, Power BI.
 
-→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/market-risk-portfolio-analytics)
+→ [View Project Repository](https://github.com/rohanvaiyata3-jpg/Market_Risk_Analytics)
 
 ---
 
